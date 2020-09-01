@@ -1,7 +1,5 @@
 # Weekly Project 6
-This week's project is a re-hash of weekly project #2 - where we analyized movie rating data to answer the questions repeated below.  **The key difference** this week is that you should leverage `pandas` - and dispense with all the work we did to shape the data using dictionaries and classes.  In many ways, `pandas` removed the necessity for all this work - although in larger analyses you will benefit from a blend of approaches.
-
-**Unlike in WP-2**, don't output your results in json/csv files - instead, develop your analysis directly in a **jupyter notebook** - which is a more convenient way to present your findings.
+This week's project is a re-hash of weekly project #2 and #3 - where we analyized movie rating data to answer the questions repeated below.  **The key difference** this week is that you should leverage `pandas` - and dispense with all the work we did to shape the data using dictionaries and classes.  In many ways, `pandas` removed the necessity for all this work - although in larger analyses you will benefit from a blend of approaches.
 
 Importantly - your answers should match up exactly with what you found in the past analysis!  `pandas` is a tool - but it doesn't change the outcome.
 
